@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DianeMugunga
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 FullStack Developer
+- 🌱 dianemugunga00@gmail.com
+- 💞️ 0788739843
+- 📫 Coding is life. 
 
 <!---
 DianeMugunga/DianeMugunga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
