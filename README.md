@@ -2,6 +2,7 @@
 - 👀 FullStack Developer
 - 🌱 dianemugunga00@gmail.com
 - 💞️ 0788739843
+- Visit my project under my control https://freementorr.netlify.app/home
 - 📫 Coding is life. 
 
 <!---
